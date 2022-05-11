@@ -10,8 +10,8 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/creack/pty"
-	newpty "github.com/creack/pty"
+	"github.com/yimtun/creack-pty"
+	newpty "github.com/yimtun/creack-pty"
 )
 
 // ErrUnsupported is returned if a function is not available on the
