@@ -1,4 +1,4 @@
-module sshServer/vendor/github.com/yimtun/kr-pty
+module github.com/yimtun/kr-pty
 
 go 1.16
 
